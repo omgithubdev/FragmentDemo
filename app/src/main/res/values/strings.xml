@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="tab_list">List</string>
+    <string name="tab_detail">Detail</string>
+
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_dob">DOB (Date of Birth)</string>
+
+    <string name="btn_next">Next</string>
+
+    <string name="error_valid_input">Enter valid input</string>
+    <string name="btn_back">Back</string>
+</resources>
